@@ -1,0 +1,249 @@
+74572807        VILCHEZ                       MAUCAYLLE                     ROMEL                         AM01
+70792940        COLLAHUA                      CCAHUANA                      INOCENCIO GREGORIO            AM01
+70349741        MERINO                        SOLANO                        WILLIAM                       AM01
+77701431        YAURI                         PIPA                          RICKY RENANN                  AM01
+74646484        NAVARRO                       FLORES                        CINTIA                        AM01
+73621300        PECEROS                       CESPEDES                      OSCAR ORLANDO                 AM01
+75092186        CANCHACO                      BAUTISTA                      ANDRES JUNIOR                 AM01
+71468030        PALOMINO                      CHOQUE                        CHIQUILLAN                    AM01
+73454617        ALARCON                       RODAS                         DAVID                         AM01
+76749468        CCOPA                         AYCHO                         RHAL BRAYAN                   AM01
+71084720        TAMARA                        CABALLERO                     SEBASTIAN DANIEL              II01
+74225661        QUIJANO                       ZUNIGA                        JESUS MANUEL                  II01
+75154654        ALFARO                        BAZAN                         JOSEPH KAJATT ALI             II01
+76271764        SILVERA                       ROMANI                        JOSE LUIS                     II01
+75444166        DE LA CRUZ                    DAMIANO                       JONEL ADRIAN                  II01
+71506763        LARA                          LEON                          MOISES AUGUSTO                II01
+74417252        NOLASCO                       MUNOZ                         HANS BRAYAN                   II01
+70669122        GALINDO                       INCA                          DALMIRO                       II01
+72515351        PALOMINO                      ANDIA                         EROS KERK                     II01
+74613715        FLORES                        OMONTE                        JOHAN DIRK                    II01
+74161714        SILVERA                       QUISPE                        LUIS ALBERTO                  IA01
+47404150        CASAS                         VILCHEZ                       LIZ YENNIFER                  IA01
+77336081        ZUNIGA                        SALDANA                       VICTOR DANIEL                 IA01
+72088471        ESLACHIN                      QUISPE                        JHON RONALD                   IA01
+78376053        CARRION                       BENITES                       BARINIA                       IA01
+71756635        GARIBAY                       OROSCO                        YOSSET JEFONE                 IA01
+75195080        YUPANQUI                      SAUNE                         CARLOS MICHAEL                IA01
+70815643        VARGAS                        GUTIERREZ                     FILEMON                       IA01
+71846651        NAVARRO                       CRUZ                          RONALD WILDER                 IA01
+61562058        ANCCO                         HURTADO                       ROSA MARIA                    IA01
+71625834        LIRA                          FLORES                        FLOR YAMILE                   CT01
+71881541        NAVARRO                       PARIONA                       JHON EBERT                    CT01
+71576151        VARGAS                        CONTRERAS                     JUANA LIDIA                   CT01
+73498748        DELGADO                       CHANCCO                       ALICIA                        CT01
+70685820        CACERES                       ARONE                         FANNY MARIBEL                 CT01
+71713455        CAMARGO                       LUCERO                        YSELA                         CT01
+70895599        HUAYHUA                       LOAYZA                        DAMASO                        CT01
+70396390        ORTIZ                         CARRASCO                      JOSE ANTONY                   CT01
+74469575        ARONI                         HUAMAN                        LIDIA YAQUELIN                CT01
+72037037        RODAS                         CCOPA                         ANA MARGARITA                 CT01
+74951884        PALOMINO                      BAZAN                         MIGUEL ANGEL                  EI01
+70669138        HUAMAN                        CUYA                          MELISA                        EI01
+74663942        CONTRERAS                     HUARCAYA                      MARIA BELEN                   EI01
+70449082        MITMA                         CHOQUE                        FLOR ALELY                    EI01
+74482843        ESTANIZ                       PEZUA                         YOSELIN KARINA                EI01
+76053041        MESCO                         CRUZ                          NATALIA                       EI01
+70494674        ESPINOZA                      VILLCAS                       YESLY                         EI01
+70660009        TORRES                        HUISA                         MILAGROS MARISOL              EI01
+46863378        RODAS                         HURTADO                       ABRAHAM                       EI01
+71456410        LOPEZ                         OLARTE                        EDITH SANDRA                  EI01
+72123484        ZEA                           HEREDIA                       LUCERO ESTRELLA               AE01
+70148189        ZARABIA                       PASTOR                        WILMER CRISANTO               AE01
+74577518        PALOMINO                      MANUICO                       LICET                         AE01
+70685838        MERINO                        ROJAS                         YANETH MARUJA                 AE01
+71506716        HURTADO                       HUAMAN                        SONILDA                       AE01
+77089042        MEJIA                         BARRIGA                       DORIAM EDGAR                  AE01
+71630691        HUARACA                       LLANOS                        MABEL                         AE01
+75258518        SILVERA                       QUISPE                        OSCAR DAVID                   AE01
+70684735        TAIPE                         QUISPE                        IVAN JHUNIOR                  AE01
+75025056        LEGUIA                        GUZMAN                        ROBERTO CARLOS                AE01
+75264546        BANDA                         ARIAS                         CRISTIAN VIRGILIO             IA03
+74570609        RODRIGUEZ                     SAYAGO                        MILDER ISMAEL                 IA03
+70226104        BANDA                         MOZO                          ISMAEL                        IA03
+47281626        CHOQUE                        CORONADO                      JONATHAN                      IA03
+73453416        TELLO                         QUISPE                        LIZ YOVANA                    IA03
+76060363        ALLCCA                        QUISPE                        JHOVIKNIOR                    IA03
+75845218        ALCARRAZ                      LOAYZA                        BRAHAN OWEN                   IA03
+75859617        MACHUCA                       RAMOS                         DANY                          IA03
+70148789        ALVAREZ                       ALARCON                       YONATAN                       IA03
+71840073        CCASANI                       HUAMAN                        NELY IRMA                     IA03
+77200925        RIVERA                        SANCHEZ                       JORGE LUIS                    IA03
+77390016        QUISPE                        MEDINA                        JHON ALEXANDER                IA03
+71265439        LLOCLLA                       GOMEZ                         BILLY ALBERTO                 IA03
+71954708        TOLENTINO                     ENCISO                        ANDERSON MICHAEL              IA03
+75495313        HUAMAN                        HUILLCA                       SHULIMT                       IA03
+73027482        VARGAS                        ALARCON                       YEREMI YEFRY                  IA03
+71788215        JANAMPA                       LAPA                          RENAN YOEL                    IA03
+75852346        SURI                          SOLANO                        JHAK NANDO                    IA03
+75000647        ALLCCA                        LEGUIA                        THALIA MERCEDES               IA03
+71926079        ARAUJO                        CARRASCO                      DEYSI                         IA03
+76312303        YUPANQUI                      QUISPE                        ALEXANDER LUIS                IA03
+71511626        HUAYANA                       PAREDES                       SANDRO                        IA03
+79054018        PORTILLO                      LOPEZ                         MARIA ISABEL                  IA03
+77536294        CARDENAS                      LEGUIA                        RICHARD DAVID                 IA03
+71859216        URRUTIA                       GUIZADO                       JOSE MANUEL                   IA03
+62106291        CAYHUALLA                     ORTEGA                        JOSE                          AM03
+45226586        PIZARRO                       AUQUI                         EMERSON                       AM03
+76776933        OJEDA                         CAMACHO                       JHON BRAYAN                   AM03
+71136263        MONDALGO                      CABRERA                       ROYER                         AM03
+72378015        CARDENAS                      OSCCO                         JOSUE                         AM03
+74570572        MAUCAYLLE                     PALOMINO                      EMERSON                       AM03
+76176298        CORONADO                      CHOCCE                        AXEL                          AM03
+77082694        ANDIA                         CCENTE                        GUIOVER DENIS                 AM03
+72225974        GALINDO                       FLORES                        CRISTIAN ENRIQUE              AM03
+71026035        SILVERA                       CACERES                       ALFREDO DENNIS                AM03
+74904570        OVALLE                        GUIZADO                       JACINTO                       AM03
+70419969        SARAYASY                      RINCON                        DIANICK BRIGGITE              AM03
+72439045        NAHUINMALLMA                  MENDEZ                        ROBELSON                      AM03
+76422406        FIGUEROA                      MACHACCA                      NICOLE AVRIL                  AM03
+73585641        SALAZAR                       PALOMINO                      DENYS JULIO                   AM03
+73070201        BALANDRA                      MEZARES                       JENNIFER MERLY                AM03
+72242776        ALLCCAHUAMAN                  CCORAHUA                      KELY ANDREA                   AM03
+77336081        ZUNIGA                        SALDANA                       VICTOR DANIEL                 AM03
+72259859        GRANADOS                      BARBOZA                       RODRIGO                       AM03
+71508046        GALLEGOS                      HUAMAN                        YOSELIN SHANTEL               AM03
+71617281        APARCO                        HUAMAN                        MILDER                        AM03
+74062130        CANARI                        ANCCO                         KEILA TALITA                  AM03
+72793438        QUISPE                        HURTADO                       EDWARD                        II03
+75195279        ILLANIS                       HUARACA                       DAVID ABEL                    II03
+72202894        CARRION                       MOTTA                         DANERIN ROSA                  II03
+72941309        ROMUCHO                       HUAMAN                        JESUS MIGUEL                  II03
+72392215        ALCARRAZ                      BAUTISTA                      DANI JEFFERSON                II03
+74612101        YNCA                          OROSCO                        REGHUIL                       II03
+73130311        VARGAS                        LUDENA                        AARON ANGEL                   II03
+73455761        POMA                          OSCCO                         JUAN JEREMIAS                 II03
+76447419        SERNA                         BERROCAL                      ROMEL                         II03
+75258700        NAVARRO                       ROJAS                         YEFERSON                      II03
+71843787        SICHA                         NAVARRO                       ROSMERY                       II03
+74944989        PILLACA                       MENDEZ                        JUAN GABRIEL                  II03
+75859813        PALOMINO                      CCORAHUA                      JHON JAVIER                   II03
+77039968        OLIVARES                      ALVAREZ                       ALISSON MILAGROS              II03
+70422391        GARCIA                        VILA                          WHANDER MOISES                II03
+76906001        ARENAS                        FARFAN                        FELIPE                        II03
+71657929        BALDEON                       ANDIA                         BRYANS EDMILSON               II03
+77334315        RODAS                         HUILLCAPUMA                   DIEGO PATRICIO                II03
+75869196        TORRE                         URQUIZO                       LUIS ARTURO                   II03
+70586838        QUISPE                        CHIPANA                       LUY MANFAI                    II03
+70437176        ANDRADE                       OSCCO                         JOSE LUIS                     II03
+71527298        RIVAS                         ZUCA                          JERLY                         II03
+71636835        QUISPE                        MOLINA                        JUAN MARCO                    II03
+71498946        CABEZAS                       LEYVA                         ROGGER JHOEL                  II03
+74961205        HUANCA                        HUARANCCA                     CANDY                         AE03
+72445176        LUNA                          LEGUIA                        RONALDO                       AE03
+77204885        CARIRE                        HUAYLLA                       YAKELIN                       AE03
+76244065        LAZO                          PICHIHUA                      MARY EPIFANIA                 AE03
+75959021        HUASCO                        QUISPE                        JIMY JHONATHAN                AE03
+73227705        MOLINA                        MOSCOSO                       ALEXANDER JOHANNES            AE03
+77420939        LEON                          OSCCO                         LUCERO YOLANDA                AE03
+77473089        AYQUIPA                       SIVIPAUCAR                    NANCY CAROLAY                 AE03
+74298991        ZUNIGA                        MEZARES                       ANA ROSSMERY                  AE03
+76130134        ALVITES                       HURTADO                       ENORET ESTEFANY               AE03
+73894759        AREVALO                       LIGARDA                       JOAQUIN                       AE03
+76786821        QUISPE                        AYALA                         JHOEL GENARO                  AE03
+72654056        FERNANDEZ                     MANTARI                       JOSE DANIEL                   AE03
+72097135        QUISPE                        RUIZ                          MELISSA                       AE03
+72378004        OSCCO                         ALARCON                       MARIBEL JUANA                 AE03
+72836922        OSCCO                         FERNANDEZ                     KIARA ANTONELA                AE03
+73432628        ROJAS                         ESPERME                       JHEFERSON                     AE03
+75025081        PRADO                         LOAYZA                        YANET                         AE03
+75356411        CARHUAS                       MISARI                        GABRIELA                      AE03
+74548546        VASQUEZ                       CANARI                        DENNIS STALIN                 AE03
+75676513        LLANTOY                       HUISA                         YASMIN DIANA                  AE03
+74944990        PILLACA                       MENDEZ                        MAYLE TERESA                  AE03
+71089374        CASTRO                        LLACCHUAS                     JOSE ANTONIO                  AE03
+74707891        QUISPE                        MAUCAYLLE                     ROBINSON LIENER               CT03
+77240327        CAPUCHO                       IPARRAGUIRRE                  EDUARDO DAVID                 CT03
+74091645        ATAHUA                        PEDROZA                       JEAN CARLOS                   CT03
+77383437        ARANDIA                       SOLANO                        YORK WILFREDO                 CT03
+74909660        ESPINOZA                      BAUTISTA                      ROSSY MEDALITH                CT03
+75931763        SALAZAR                       VILLACRES                     HENDRIK ROGER                 CT03
+70293180        MOSCOSO                       CCOYCCA                       JOSE MANFER                   CT03
+74492755        MUNOZ                         GALINDO                       YAN MARCO                     CT03
+75467104        SOLANO                        DIAZ                          RUTH YENY                     CT03
+71771943        LAPA                          QUISPE                        LISBETH YESICA                CT03
+75476984        CCALA                         MACHACCA                      YOSELIN FIORELLA              CT03
+74610322        ARENAS                        GUTIERREZ                     GEORGS GARIBT                 CT03
+75210749        POCCO                         PASTOR                        ELIZABETH                     CT03
+77679034        LA SANTA                      BACA                          CARMEN SAMANTA                CT03
+72441725        ZUNIGA                        RIVAS                         NILDA MELADY                  CT03
+78463802        RIVERA                        FRANCO                        RIKE FANDERO                  CT03
+74247870        ALLCCA                        HUAMANCAYO                    SHIOMY YUSMIN                 CT03
+60143285        LUNA                          LEGUIA                        EDIMAR                        CT03
+74569271        ROJAS                         HERHUAY                       MARISE                        EI03
+75476316        ARANGUINA                     QUISPE                        YOMIER ALEX                   EI03
+74754031        ISLACHIN                      HUAMAN                        EFRAIN EDUARDO                EI03
+77383365        ARCIBIA                       QUISPE                        ABRAHAM                       EI03
+71840237        ARANGURI                      MUNOZ                         MIRIAM ROCIO                  EI03
+76919054        LEGUIA                        PEDRAZA                       LIZETH MILAGROS               EI03
+74375024        LEGUIA                        OSCCO                         EDISON                        EI03
+47799061        MARINO                        SALAZAR                       ABEL                          EI03
+71946009        CANARI                        OSCCO                         EDGAR ABEL                    EI03
+44057301        KARI                          DAMIAN                        KARIN SALOME                  EI03
+41168457        DAMIANO                       HUAMAN                        GRIMALDO                      EI03
+74229744        TOCCAS                        JUAREZ                        DAYSSI YANIRED                EI03
+74154566        UQUICHE                       SAENZ                         ANI FLOR                      EI03
+44802554        MARINO                        SALAZAR                       RUTH NOEMI                    EI03
+74445563        ANCCO                         CANCHO                        JHORDY WILSON                 EI03
+74976657        HINOJO                        ANTEZANA                      MARIANA ISBEL                 EI03
+75958547        MEJIA                         APARCO                        ANDREA MILAGROS               EI03
+76637933        JUAREZ                        FARFAN                        DANIELA JUAREZ FARFAN         EI03
+74156230        RUPAILLA                      CASAS                         YENY                          EI03
+76020124        SOLIS                         LOAIZA                        MAISSA                        EI03
+73099011        FRANCO                        ORTIZ                         EVER                          EI03
+72242788        VELASQUE                      VIVANCO                       DIMAR JHOEL                   AE06
+74577496        DAMIANO                       HUAMAN                        INDIRA ROUSS                  AE11
+28300311        QUISPE                        GALINDO                       JUAN GERARDO                  AE00
+71556943        HUAMAN                        QUISPE                        ERICA                         AE04
+75849650        AMABLE                        QUISPE                        YESICA                        AE14
+75203768        ALTAMIRANO                    PEREZ                         CINTIA                        AE14
+73347237        SOTELO                        CHUMBE                        CHRISTIAN                     AE13
+63293158        CHAVEZ                        OSCCO                         HERVE                         CT06
+75467203        MEJIA                         CASTILLO                      JUAN CARLOS                   CT11
+45499961        MEDINA                        QUISPE                        YESENIA                       CT00
+72308140        CARDENAS                      LAUPA                         FELICITAS YACKELIN            CT15
+73456162        MARINO                        ORTEGA                        JHASMIN AMELY                 CT15
+70999085        CHIPANA                       HUAYHUAS                      JUAN CARLOS                   CT15
+47458870        RODAS                         CCOPA                         AYMAR                         CT04
+71566139        PALOMINO                      DAMIANO                       ALEX                          CT04
+72893363        GARCIA                        FLORES                        MARINA MILAGROS               CT14
+72219134        VARGAS                        CENTENO                       NOELIA ROSANA                 CT14
+63269319        OCHOA                         PILLACA                       CINTHIA VANESSA               CT13
+74841672        MINAYA                        ALDAZABAL                     NICANOR                       EI06
+74387883        CCORIMANYA                    ALVAREZ                       SAYDA                         EI11
+74577379        AREVALO                       DAMIANO                       JHON ANDERSON                 EI15
+71611990        HUARACA                       CARDENAS                      MARITSA                       EI15
+75380262        CHIQUILLAN                    ANCCO                         INELSON                       EI15
+70419992        ATAO                          CCORISONCCO                   MARLENY                       EI04
+73330855        CASTRO                        ALDAZABAL                     LUORDES YENY                  EI14
+76580632        MERCADO                       HUAUYA                        KELLY ANDREA                  EI14
+75080309        CONTRERAS                     ZEVALLOS                      JOVITA                        EI10
+73650090        VIVANCO                       QUISPE                        CAROL ERICA                   EI13
+71517725        VIVANCO                       QUISPE                        MEILY XIMENA                  IA06
+74501099        YANAHUAMAN                    GUZMAN                        LUIS JEANPIER                 IA11
+77177742        ZARABIA                       ZEVALLOS                      RODY FRANS                    IA04
+75859537        LOAYZA                        BULEJE                        JUAN JHAMPIER                 IA14
+72292657        CCAICURI                      ASPUR                         ANIVAL EDGAR                  IA13
+77270616        MINAYA                        OSCCO                         VICTOR MANUEL                 AM06
+75167333        CAMPOS                        LAGOS                         MIGUEL ANGEL                  AM11
+70905296        PARDO                         CENTENO                       IVAN JUNIOR                   AM00
+73387980        OSCCO                         QUISPE                        YUDIN AMILCAR                 AM04
+77346752        ALTAMIRANO                    HUAMAN                        ANA SOFIA                     AM14
+75654384        MALLMA                        HUAMANI                       ALVARO                        AM14
+71588705        VENEGAS                       MALLMA                        HECTOR HIPOLITO               AM10
+76855357        CARRASCO                      MALLMA                        FRANKLIN WILLIAM              AM13
+73593103        LIZANA                        QUISPE                        MIGUEL ANGEL                  II06
+72616843        ORTIZ                         AVENDANO                      WILMER MARIO                  II15
+74822117        ROMERO                        VARGAS                        DIEGO SEBASTIAN               II14
+77066285        RIVERA                        ORTEGA                        ABDIEL ALEXANDER              II14
+74657972        HUAMAN                        VARGAS                        KENNEDY                       II10
+71509206        PAHUARA                       HUAMAN                        LUIS JONATAN                  II13
+70792963        NAVARRO                       HERHUAY                       KAREN                         AE21
+72256895        CUSI                          AUQUIRIMA                     ALEJANDRINA MEDALITH          AE21
+71776676        ESPINOZA                      TAMBO                         CARLOS OMAR                   AE21
+71963206        GUIZADO                       SALAZAR                       BRAYAN                        AE21
+71688638        VALDARRAGO                    ALVARADO                      ORLANDO ARON                  CT21
+42549626        CAMPOS                        DOMINGUEZ                     RONALD                        CT21
+70587479        QUISPE                        HUAMAN                        JAIME LUIS                    IA21
+70559293        ANYOSA                        CHINCHAY                      KENIA RUSIN                   AM21
+77381154        VELARDE ALVAREZ               CARRASCO                      SCHESSELNIHER ARTURO          II21
