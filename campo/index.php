@@ -1,4 +1,51 @@
 <?php
+
+
+
+// FORMATO SOLICITADO ----------------------------
+
+// La estructura del archivo de texto (corregido) que se tiene que generar es la siguiente.
+
+// del caracter 1 al 8 =  nro. de DNI
+// del caracter 9 al  16  = espacios en blanco
+// del caracter 17 al 46  = apellido paterno, completar con espacios en blanco al final, hasta la posición 30
+// del caracter 47 al 76 = apellido materno
+// del caracter 77 al  106 = nombres
+// del caracter 107 al 108 = codigo de las carreras
+// del caracter 109 al 110 = codigo modalidad de ingreso
+
+// Código de las carreras:
+// AE     Administración
+// AM   Ambiental
+// CT     Contabilidad
+// EI      Educación
+// IA     Agroindustrial
+// II      Sistemas
+
+// Código de las modalidades de ingreso
+// 01 CENTRO PRE
+// 03 ORDINARIO
+// 04 EXAMEN EXTRAORDINARIO - PERSONAS CON DISCAPACIDAD
+// 05 EXAMEN EXTRAORDINARIO - 1° Y 2° PUESTO COLEGIO
+// 06 EXAMEN EXTRAORDINARIO POR BECAS VRAEM
+// 10 EXAMEN EXTRAORDINARIO - TRASLADO INTERNOS
+// 11 EXAMEN EXTRAORDINARIO - DEPORTISTAS CALIFICADOS
+// 12 EXAMEN EXTRAORDINARIO - BECAS POR CONVENIO
+// 13 EXAMEN EXTRAORDINARIO - VIOLENCIA POLITICA
+// 14 EXAMEN EXTRAORDINARIO - ALTO RENDIMIENTO
+// 15 EXAMEN EXTRAORDINARIO - BECA 18
+// 21 TRASLADO DE ESTUDIANTES DE UNIVERSIDADES CON LICENCIAMIENTO DENEGADO
+// 00 OTROS
+
+// El archivo no debe contener tildes, ñ o caracteres especiales.
+
+
+
+
+
+
+
+
 $fila = 1;
 if (($gestor = fopen("registro.csv", "r")) !== FALSE) {
     while (($datos = fgetcsv($gestor, 1000, ";")) !== FALSE) {
